@@ -133,7 +133,7 @@ export default function Login() {
         {/* Footer Text */}
         <div className="pb-8 text-center">
           <p className="text-[10px] text-slate-500 font-bold uppercase tracking-[0.2em]">
-             <div>Email : admin@gmail.com    Pass : 123456 </div> 
+           Email : admin@gmail.com    Pass : 123456 
           </p>
         </div>
       </div>
