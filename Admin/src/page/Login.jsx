@@ -129,11 +129,11 @@ export default function Login() {
             ) : "Sign In"}
           </button>
         </form>
-              Email : admin@gmail.com    Pass : 123456
+          
         {/* Footer Text */}
         <div className="pb-8 text-center">
           <p className="text-[10px] text-slate-500 font-bold uppercase tracking-[0.2em]">
-            Managed by School Admin Panel v2.0
+             <div>Email : admin@gmail.com    Pass : 123456 </div> 
           </p>
         </div>
       </div>
